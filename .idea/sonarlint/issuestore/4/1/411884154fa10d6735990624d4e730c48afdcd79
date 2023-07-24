@@ -1,0 +1,10 @@
+
+5python:S125]"Remove this commented out code.(ı¨Ü%
+fpython:S107e"JFunction "run" has 28 parameters, which is greater than the 13 authorized.(Ÿ×¿íüÿÿÿÿ
+kpython:S3776d"TRefactor this function to reduce its Cognitive Complexity from 99 to the 15 allowed.(ñÓá]
+Dpython:S5806Á"+Rename this variable; it shadows a builtin.(‘°
+7python:S125·"Remove this commented out code.(¿ÉÆ
+gpython:S3358Î"IExtract this nested conditional expression into an independent statement.(€¾øıÿÿÿÿ
+Dpython:S5806Ü"+Rename this variable; it shadows a builtin.(ÚÚ´È
+rpython:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(õ“äèşÿÿÿÿ
+<python:S125·"Remove this commented out code.(¿œØóûÿÿÿÿ

@@ -1,0 +1,26 @@
+
+apython:S5797¼"HReplace this expression; used as a condition it will always be constant.(•øà 
+apython:S5797¾"HReplace this expression; used as a condition it will always be constant.(•øà 
+®python:S1515š"”Add a parameter to the parent lambda function and use variable "fn" as its default value; The value of "fn" might change at the next loop iteration.(µ€Ø¦
+<python:S125ÿ"Remove this commented out code.(Ø‘Ì“ÿÿÿÿÿ
+7python:S125Ë"Remove this commented out code.(§‘àà
+7python:S125Ì"Remove this commented out code.(µê‡ô
+Gpython:S1481ÿ".Replace unused local variable "test" with "_".(¥ò€•
+Hpython:S1481ÿ"/Replace unused local variable "train" with "_".(¥ò€•
+mpython:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ú§ù»
+Vpython:S112…">Replace this generic exception class with a more specific one.(©‘ïü
+jpython:S3699“"LRemove this use of the output from "exec"; "exec" doesnâ€™t return anything.(ûŠ¼Õùÿÿÿÿ
+<python:S125“"Remove this commented out code.(ûŠ¼Õùÿÿÿÿ
+gpython:S3358¬"IExtract this nested conditional expression into an independent statement.(óÂöúÿÿÿÿ
+mpython:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(„¾¸
+Ipython:S5806õ"+Rename this variable; it shadows a builtin.(àŒæØýÿÿÿÿ
+<python:S125¢"Remove this commented out code.(ü¯‡£øÿÿÿÿ
+<python:S125²"Remove this commented out code.(ü¯‡£øÿÿÿÿ
+mpython:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(¿õ¼
+<python:S125÷"Remove this commented out code.(þœ‘ýÿÿÿÿ
+6python:S125–"Remove this commented out code.(£•G
+<python:S125É"Remove this commented out code.(àÉÞüÿÿÿÿ
+rpython:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÕÖòÏÿÿÿÿÿ
+<python:S125÷"Remove this commented out code.(þœ‘ýÿÿÿÿ
+6python:S125—"Remove this commented out code.(£•G
+<python:S125Ç"Remove this commented out code.(É´—‹ûÿÿÿÿ

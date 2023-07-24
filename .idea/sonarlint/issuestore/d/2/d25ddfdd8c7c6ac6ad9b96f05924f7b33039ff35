@@ -1,0 +1,22 @@
+
+6python:S1259"Remove this commented out code.(…¥ù„
+opython:S107g"XFunction "create_dataloader" has 17 parameters, which is greater than the 13 authorized.(¸’¦Æ
+7python:S125­"Remove this commented out code.(¨À
+rpython:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ÄÁšÃşÿÿÿÿ
+7python:S125×"Remove this commented out code.(ã¼ÔÖ
+7python:S125İ"Remove this commented out code.(¼ÑŒ³
+<python:S125á"Remove this commented out code.(ïİ³ƒúÿÿÿÿ
+[python:S112ä">Replace this generic exception class with a more specific one.(°µãâùÿÿÿÿ
+7python:S125Ê"Remove this commented out code.(ŸŞ¿¶
+<python:S125‰"Remove this commented out code.(›ïæüÿÿÿÿ
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¯¦C
+7python:S125Ë"Remove this commented out code.(¨í®³
+<python:S125š"Remove this commented out code.(ëÜ¨úÿÿÿÿ
+<python:S125ç"Remove this commented out code.(¶õ¬úÿÿÿÿ
+rpython:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¥â«ûúÿÿÿÿ
+<python:S125¤"Remove this commented out code.(¥â«ûúÿÿÿÿ
+<python:S125½"Remove this commented out code.(ÑŠÿøÿÿÿÿ
+rpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ı—¾Ìÿÿÿÿÿ
+[python:S112¬">Replace this generic exception class with a more specific one.(Å’ìäûÿÿÿÿ
+Dpython:S5806Æ"+Rename this variable; it shadows a builtin.(ßÉ§¼
+Apython:S108‡	")Either remove or fill this block of code.(ã‘Û¾
