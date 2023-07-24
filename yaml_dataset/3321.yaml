@@ -1,0 +1,5 @@
+names:
+- class
+nc: 1
+train: /home/pvc/Project/BE_yolo/uploads/datasets/test1/images
+val: /home/pvc/Project/BE_yolo/uploads/datasets/test1/images

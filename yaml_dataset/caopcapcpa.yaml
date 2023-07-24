@@ -1,0 +1,5 @@
+names:
+- wood
+nc: 1
+train: /home/admin1/mnt_raid1/md0/caopv/yolo_api/uploads/datasets/tests1/images
+val: /home/admin1/mnt_raid1/md0/caopv/yolo_api/uploads/datasets/tests1/images

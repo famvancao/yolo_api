@@ -1,0 +1,8 @@
+names:
+- gray
+- blue
+- orange
+- green
+nc: 4
+train: /home/pvc/Project/BE_yolo/uploads/Dataset1/images
+val: /home/pvc/Project/BE_yolo/uploads/Dataset2/images
